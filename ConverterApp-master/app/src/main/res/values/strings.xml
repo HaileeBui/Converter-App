@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight &amp; mass</string>
+    <string name="volume">Volume</string>
+    <string name="speed">Speed</string>
+    <string name="time">Time</string>
+    <string name="area">Area</string>
+    <string name="temperature">Temperature</string>
+    <string name="power">Power &amp; energy</string>
+    <string name="prefixes">Metrical prefixes</string>
+    <string name="favourites">Favourites</string>
+    <string name="Enter_value">0</string>
+    <string name="Output_value">0</string>
+    <string name="Add_to_fav_button">Add to favourites</string>
+    <string-array name="length_array">
+        <item>Millimetre</item>
+        <item>Centimetre</item>
+        <item>Metre</item>
+        <item>Kilometre</item>
+        <item>Mile</item>
+        <item>Feet</item>
+        <item>Yard</item>
+    </string-array>
+    <string-array name="speed_array">
+        <item>M/s</item>
+        <item>Ft/s</item>
+        <item>Mi/h</item>
+        <item>Km/h</item>
+    </string-array>
+    <string-array name="temperature_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="volume_array">
+        <item>Millilitre</item>
+        <item>Litre</item>
+        <item>Gallon (US)</item>
+        <item>Fluid Ounce (Imperial)</item>
+        <item>Fluid Ounce (US)</item>
+    </string-array>
+</resources>
